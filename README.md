@@ -11,7 +11,7 @@ My project at GoTo/Gojek Hackathon 2024, won 2nd place out of 95 teams/371 parti
 
 ## Setting up project
 
-1. Make a .env file in the root directory, fill it with required keys as indicated in .env.sample file
+1. Make a .env file in the root directory, fill it with the required keys as indicated in .env.sample file
 
 2. Install all dependencies
    ```
@@ -22,3 +22,8 @@ My project at GoTo/Gojek Hackathon 2024, won 2nd place out of 95 teams/371 parti
    ```
    pnpm run dev
    ```
+
+4. Short demo
+<p align="center">
+  <img src="https://github.com/mukhlishga/lokalise-frontend/blob/main/Lokalise%20Pro%20Max.gif" alt="lokalise-pro-max-demo" />
+</p>

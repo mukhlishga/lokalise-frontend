@@ -1,7 +1,7 @@
 # Lokalise Website
 
 Frontend website for Lokalise Pro Max, a replica of [Lokalise](https://lokalise.com) with image annotation feature. <br />
-My project at GoTo/Gojek Hackathon 2024, won 2nd place out of 95 teams / 371 participants across Indonesia, India, Singapore, and China.
+My project at GoTo / Gojek Hackathon 2024, won 2nd place out of 95 teams / 371 participants across Indonesia, India, Singapore, and China.
 
 ## Requirements
 
